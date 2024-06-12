@@ -15,4 +15,5 @@ JWST-SPRING数据释放文档
    fwhm/index
    data_info/index
    version/index
+   data_obs/index
    catalog/index
