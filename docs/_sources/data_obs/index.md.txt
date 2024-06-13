@@ -22,6 +22,9 @@
 #### pro2514 
 ['obsnum151', 'obsnum152', 'obsnum153', 'obsnum154', 'obsnum155', 'obsnum156', 'obsnum157', 'obsnum158', 'obsnum159', 'obsnum160', 'obsnum161', 'obsnum162', 'obsnum163', 'obsnum164', 'obsnum165', 'obsnum200', 'obsnum201', 'obsnum202']
 
+#### pro3990
+['obsnum121', 'obsnum367', 'obsnum368', 'obsnum369', 'obsnum370']
+
 ### MIRI
 
 #### pro1727
@@ -49,7 +52,7 @@
 ['obsnum02']
 
 #### pro3990 
-['obsnum120']
+['obsnum120', 'obsnum444', 'obsnum445', 'obsnum446', 'obsnum447', 'obsnum448', 'obsnum449', 'obsnum450', 'obsnum451', 'obsnum452', 'obsnum453', 'obsnum454', 'obsnum455']
 
 ### MIRI
 
@@ -183,6 +186,9 @@
 
 #### pro2514 
 ['obsnum151', 'obsnum152', 'obsnum153', 'obsnum154', 'obsnum155', 'obsnum156', 'obsnum157', 'obsnum158', 'obsnum159', 'obsnum160', 'obsnum161', 'obsnum162', 'obsnum163', 'obsnum164', 'obsnum165', 'obsnum200', 'obsnum201', 'obsnum202']
+
+#### pro3990
+['obsnum121', 'obsnum367', 'obsnum368', 'obsnum369', 'obsnum370']
 
 ### MIRI
 
