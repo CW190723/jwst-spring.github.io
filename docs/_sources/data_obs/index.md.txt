@@ -1,4 +1,4 @@
-# Observation number used
+# Observation Number
 
 ## COSMOS
 
