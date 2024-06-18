@@ -3,7 +3,7 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
-<link rel="index" title="索引" href="../genindex.html" /><link rel="search" title="搜索" href="../search.html" /><link rel="next" title="CATALOG" href="../catalog/index.html" /><link rel="prev" title="Data Information" href="../data_info/index.html" />
+<link rel="index" title="索引" href="../genindex.html" /><link rel="search" title="搜索" href="../search.html" /><link rel="next" title="Observation Number" href="../data_obs/index.html" /><link rel="prev" title="Data Information" href="../data_info/index.html" />
 
     <!-- Generated with Sphinx 7.3.7 and Furo 2024.05.06 -->
         <title>Version Information - jwst-spring 1.0.0 文档</title>
@@ -218,6 +218,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../fwhm/index.html">Empirical FWHM</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../data_info/index.html">Data Information</a></li>
 <li class="toctree-l1 current current-page"><a class="current reference internal" href="#">Version Information</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data_obs/index.html">Observation Number</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../catalog/index.html">CATALOG</a></li>
 </ul>
 
@@ -269,7 +270,7 @@
 <p>v1.3：使用F814W+F160W构建参考星表，得到总的F150W数据图像。之后，利用F150+F160W构建参考星表，用于处理NIRCAM其他波段数据。</p>
 <p>v1.4：优化outlier剔除算法；uds利用ukidss构建第一版参考星表，之后定标处理方法与v1.3相同。</p>
 <p>v1.4.1：修复COSMOS在F090W，F115W，F200W出现的wcs问题。</p>
-<p>v1.5：新的wisp扣除算法；优化用于背景处理的mask构建。</p>
+<p>v1.5：新的wisp扣除算法（仅在wisp特别明显且wisp模板效果不佳时使用）；优化用于1/f removing的mask构建；优化用于背景处理的mask构建；修复构建read noise时的bug。</p>
 <p><code class="docutils literal notranslate"><span class="pre">v1.0：JWST</span> <span class="pre">Calibration</span> <span class="pre">pipeline</span> <span class="pre">v1.12.5；</span> <span class="pre">CRDS</span> <span class="pre">pmap</span> <span class="pre">1179</span></code></p>
 <p><code class="docutils literal notranslate"><span class="pre">v1.1：JWST</span> <span class="pre">Calibration</span> <span class="pre">pipeline</span> <span class="pre">v1.12.5；</span> <span class="pre">CRDS</span> <span class="pre">pmap</span> <span class="pre">1179</span></code></p>
 <p><code class="docutils literal notranslate"><span class="pre">v1.2：JWST</span> <span class="pre">Calibration</span> <span class="pre">pipeline</span> <span class="pre">v1.12.5；</span> <span class="pre">CRDS</span> <span class="pre">pmap</span> <span class="pre">1183</span></code></p>
@@ -298,12 +299,12 @@
       <footer>
         
         <div class="related-pages">
-          <a class="next-page" href="../catalog/index.html">
+          <a class="next-page" href="../data_obs/index.html">
               <div class="page-info">
                 <div class="context">
                   <span>Next</span>
                 </div>
-                <div class="title">CATALOG</div>
+                <div class="title">Observation Number</div>
               </div>
               <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
             </a>
