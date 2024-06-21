@@ -13,7 +13,8 @@
 
 **v1.4.1**：修复COSMOS在F090W，F115W，F200W出现的wcs问题。
 
-**v1.5**：新的wisp扣除算法（仅在wisp特别明显且wisp模板效果不佳时使用）；优化用于1/f removing的mask构建；优化用于背景处理的mask构建；修复构建read noise时的bug。
+**v1.5**：新的wisp扣除算法（仅在wisp特别明显且wisp模板效果不佳时使用）；优化用于1/f removing的mask构建；优化用于背景处理的mask构建；优化
+outlier clip 算法；修复构建read noise时的bug。
 
 `v1.0：JWST Calibration pipeline v1.12.5； CRDS pmap 1179`
 
