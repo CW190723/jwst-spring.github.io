@@ -218,6 +218,7 @@
 <li class="toctree-l1"><a class="reference internal" href="../fwhm/index.html">Empirical FWHM</a></li>
 <li class="toctree-l1 current current-page"><a class="current reference internal" href="#">Data Information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../version/index.html">Version Information</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data_obs/index.html">Observation Number</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../catalog/index.html">CATALOG</a></li>
 </ul>
 
@@ -261,12 +262,15 @@
         <article role="main" id="furo-main-content">
           <section id="data-information">
 <h1>Data Information<a class="headerlink" href="#data-information" title="Link to this heading">¶</a></h1>
-<p>*drz.fits drizzle后的科学图像</p>
-<p>*wht.fits drizzle后的权重图像</p>
-<p>star_region_*.fits 包含过曝恒星和persistence的mask图像</p>
-<p>*segmentation.fits 对多波段叠加图像探测得到的segmentation图像</p>
-<p>*final_segmentation.fits 最终经过一系列处理（包含deblending，恒星和persistence mask，伪像去除等）得到的最终与测光星表对应的segmentation图像</p>
-<p>*photometry.txt 多波段测光星表</p>
+<ul class="simple">
+<li><p>*drz.fits drizzle后的科学图像</p></li>
+<li><p>*wht.fits drizzle后的权重图像</p></li>
+<li><p>*exp.fits drizzle后的曝光时间图像</p></li>
+<li><p>star_region_*.fits 包含过曝恒星和persistence的mask图像</p></li>
+<li><p>*segmentation.fits 对多波段叠加图像探测得到的segmentation图像</p></li>
+<li><p>*final_segmentation.fits 最终经过一系列处理（包含deblending，恒星和persistence mask，伪像去除等）得到的最终与测光星表对应的segmentation图像</p></li>
+<li><p>*photometry.txt 多波段测光星表</p></li>
+</ul>
 <p>NIRCAM提供0.03’’/pixel的图像，MIRI提供0.03’’/pixel和0.09’’/pixel的图像（在文件名中标识30mas和90mas）</p>
 </section>
 
