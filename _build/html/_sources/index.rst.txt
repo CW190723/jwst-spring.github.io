@@ -11,11 +11,10 @@ JWST-SPRING数据释放文档
    :caption: Contents:
 
    coverage/index
-   zeropoint/index
-   fwhm/index
+   filter/index
    data_info/index
    version/index
    data_obs/index
    catalog/index
 
-Updata time: 2024-07-09
+Updata time: 2024-07-14
