@@ -3,10 +3,10 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
-<link rel="index" title="索引" href="../genindex.html" /><link rel="search" title="搜索" href="../search.html" />
+<link rel="index" title="索引" href="../genindex.html" /><link rel="search" title="搜索" href="../search.html" /><link rel="next" title="Data Information" href="../data_info/index.html" /><link rel="prev" title="Coverage" href="../coverage/index.html" />
 
     <!-- Generated with Sphinx 7.3.7 and Furo 2024.05.06 -->
-        <title>Filter Curve - jwst-spring 1.0.0 文档</title>
+        <title>Filter - jwst-spring 1.0.0 文档</title>
       <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?v=387cc868" />
     <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?v=36a5483c" />
@@ -191,7 +191,7 @@
           <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
         </button>
       </div>
-      <label class="toc-overlay-icon toc-header-icon no-toc" for="__toc">
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
         <div class="visually-hidden">Toggle table of contents sidebar</div>
         <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
       </label>
@@ -212,11 +212,13 @@
 </form>
 <div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
   <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
-<ul>
+<ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../coverage/index.html">Coverage</a></li>
+<li class="toctree-l1 current current-page"><a class="current reference internal" href="#">Filter</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../data_info/index.html">Data Information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../version/index.html">Version Information</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../data_obs/index.html">Observation Number</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../guide_star_err/index.html">Guide Star Error</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../catalog/index.html">CATALOG</a></li>
 </ul>
 
@@ -252,21 +254,25 @@
               <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
             </button>
           </div>
-          <label class="toc-overlay-icon toc-content-icon no-toc" for="__toc">
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
             <div class="visually-hidden">Toggle table of contents sidebar</div>
             <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
           </label>
         </div>
         <article role="main" id="furo-main-content">
-          <section id="filter-curve">
-<h1>Filter Curve<a class="headerlink" href="#filter-curve" title="Link to this heading">¶</a></h1>
-<p><img alt="nircam" src="../_images/nircam.jpeg" />
+          <section id="filter">
+<h1>Filter<a class="headerlink" href="#filter" title="Link to this heading">¶</a></h1>
+<section id="filter-wheels-and-throughputs">
+<h2>Filter Wheels and Throughputs<a class="headerlink" href="#filter-wheels-and-throughputs" title="Link to this heading">¶</a></h2>
+<p><img alt="nircam_wheels" src="../_images/nircam_wheels.jpeg" />
+<img alt="nircam" src="../_images/nircam.jpeg" />
+<img alt="miri_wheels" src="../_images/miri_wheels.jpeg" />
 <img alt="miri" src="../_images/miri.jpeg" /></p>
 </section>
 <section id="psf-empirical-fwhm">
-<h1>PSF Empirical FWHM<a class="headerlink" href="#psf-empirical-fwhm" title="Link to this heading">¶</a></h1>
+<h2>PSF Empirical FWHM<a class="headerlink" href="#psf-empirical-fwhm" title="Link to this heading">¶</a></h2>
 <section id="hst-from-guo-2013">
-<h2>HST (from Guo+ 2013)<a class="headerlink" href="#hst-from-guo-2013" title="Link to this heading">¶</a></h2>
+<h3>HST (from Guo+ 2013)<a class="headerlink" href="#hst-from-guo-2013" title="Link to this heading">¶</a></h3>
 <div class="table-wrapper colwidths-auto docutils container">
 <table class="docutils align-default">
 <thead>
@@ -299,7 +305,7 @@
 </div>
 </section>
 <section id="jwst">
-<h2>JWST<a class="headerlink" href="#jwst" title="Link to this heading">¶</a></h2>
+<h3>JWST<a class="headerlink" href="#jwst" title="Link to this heading">¶</a></h3>
 <div class="table-wrapper colwidths-auto docutils container">
 <table class="docutils align-default">
 <thead>
@@ -399,9 +405,9 @@
 </section>
 </section>
 <section id="zero-point-ab-mag">
-<h1>Zero point (AB mag)<a class="headerlink" href="#zero-point-ab-mag" title="Link to this heading">¶</a></h1>
+<h2>Zero point (AB mag)<a class="headerlink" href="#zero-point-ab-mag" title="Link to this heading">¶</a></h2>
 <section id="hst-from-hlf">
-<h2>HST (from HLF)<a class="headerlink" href="#hst-from-hlf" title="Link to this heading">¶</a></h2>
+<h3>HST (from HLF)<a class="headerlink" href="#hst-from-hlf" title="Link to this heading">¶</a></h3>
 <div class="table-wrapper colwidths-auto docutils container">
 <table class="docutils align-default">
 <thead>
@@ -438,13 +444,14 @@
 </div>
 </section>
 <section id="nircam">
-<h2>NIRCAM<a class="headerlink" href="#nircam" title="Link to this heading">¶</a></h2>
+<h3>NIRCAM<a class="headerlink" href="#nircam" title="Link to this heading">¶</a></h3>
 <p>28.08652 (for 0.03”/pixel)</p>
 </section>
 <section id="miri">
-<h2>MIRI<a class="headerlink" href="#miri" title="Link to this heading">¶</a></h2>
+<h3>MIRI<a class="headerlink" href="#miri" title="Link to this heading">¶</a></h3>
 <p>28.08652 (for 0.03”/pixel)</p>
 <p>25.70091 (for 0.09”/pixel)</p>
+</section>
 </section>
 </section>
 
@@ -453,8 +460,26 @@
       <footer>
         
         <div class="related-pages">
-          
-          
+          <a class="next-page" href="../data_info/index.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Data Information</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="../coverage/index.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Coverage</div>
+                
+              </div>
+            </a>
         </div>
         <div class="bottom-of-page">
           <div class="left-details">
@@ -473,8 +498,38 @@
         
       </footer>
     </div>
-    <aside class="toc-drawer no-toc">
+    <aside class="toc-drawer">
       
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Filter</a><ul>
+<li><a class="reference internal" href="#filter-wheels-and-throughputs">Filter Wheels and Throughputs</a></li>
+<li><a class="reference internal" href="#psf-empirical-fwhm">PSF Empirical FWHM</a><ul>
+<li><a class="reference internal" href="#hst-from-guo-2013">HST (from Guo+ 2013)</a></li>
+<li><a class="reference internal" href="#jwst">JWST</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#zero-point-ab-mag">Zero point (AB mag)</a><ul>
+<li><a class="reference internal" href="#hst-from-hlf">HST (from HLF)</a></li>
+<li><a class="reference internal" href="#nircam">NIRCAM</a></li>
+<li><a class="reference internal" href="#miri">MIRI</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
       
       
     </aside>
