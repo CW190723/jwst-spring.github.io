@@ -18,4 +18,4 @@ JWST-SPRING数据释放文档
    guide_star_err/index
    catalog/index
 
-Updata time: 2024-07-15
+Updata time: 2024-07-16
