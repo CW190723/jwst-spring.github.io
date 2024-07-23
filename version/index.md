@@ -29,7 +29,7 @@ outlier clip 算法；修复构建read noise时的bug；修复用于最终drizzl
 `v1.5：JWST Calibration pipeline v1.13.4； CRDS pmap 1236`
 
 
-## MIRI：
+## MIRI
 **v1.0**：基于CEERS MIRI和我们的NIRCAM v1.1流水线构建。
 
 **v1.1**：修复wcs定标后datamodel中model.meta.wcs，model.meta.wcsinfo和model.meta.cal_step.tweakreg未修改的bug。

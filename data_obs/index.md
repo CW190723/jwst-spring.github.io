@@ -1,6 +1,6 @@
 # Observation Number
 
-Until July 11.
+Until July 16.
 
 ## COSMOS
 
