@@ -1,6 +1,6 @@
 # Observation Number
 
-Until August 09.
+Until August 14.
 
 ## COSMOS
 
@@ -110,7 +110,7 @@ Until August 09.
 
 #### pro2514 
 ```
-['obsnum102', 'obsnum103', 'obsnum106', 'obsnum107', 'obsnum109', 'obsnum110', 'obsnum112', 'obsnum113', 'obsnum115', 'obsnum116', 'obsnum118', 'obsnum119', 'obsnum121', 'obsnum122', 'obsnum124', 'obsnum125', 'obsnum127', 'obsnum128', 'obsnum242', 'obsnum243', 'obsnum244', 'obsnum266', 'obsnum267', 'obsnum268', 'obsnum269', 'obsnum270', 'obsnum271', 'obsnum277', 'obsnum278']
+['obsnum102', 'obsnum103', 'obsnum106', 'obsnum107', 'obsnum109', 'obsnum110', 'obsnum112', 'obsnum113', 'obsnum115', 'obsnum116', 'obsnum118', 'obsnum119', 'obsnum121', 'obsnum122', 'obsnum124', 'obsnum125', 'obsnum127', 'obsnum128', 'obsnum242', 'obsnum243', 'obsnum244', 'obsnum264', 'obsnum265', 'obsnum266', 'obsnum267', 'obsnum268', 'obsnum269', 'obsnum270', 'obsnum271', 'obsnum277', 'obsnum278']
 ```
 
 #### pro2674 
@@ -138,6 +138,11 @@ Until August 09.
 ## GOODSS
 
 ### NIRCAM
+
+#### pro1176 
+```
+['obsnum131']
+```
 
 #### pro1180 
 ```
@@ -181,7 +186,7 @@ Until August 09.
 
 #### pro2514 
 ```
-['obsnum74', 'obsnum75', 'obsnum76', 'obsnum84', 'obsnum85', 'obsnum221', 'obsnum222', 'obsnum223', 'obsnum227', 'obsnum228', 'obsnum229', 'obsnum230', 'obsnum231', 'obsnum232', 'obsnum233', 'obsnum234', 'obsnum235', 'obsnum236', 'obsnum237', 'obsnum238', 'obsnum274', 'obsnum275', 'obsnum276']
+['obsnum73', 'obsnum74', 'obsnum75', 'obsnum76', 'obsnum84', 'obsnum85', 'obsnum221', 'obsnum222', 'obsnum223', 'obsnum227', 'obsnum228', 'obsnum229', 'obsnum230', 'obsnum231', 'obsnum232', 'obsnum233', 'obsnum234', 'obsnum235', 'obsnum236', 'obsnum237', 'obsnum238', 'obsnum274', 'obsnum275', 'obsnum276']
 ```
 
 #### pro2516 
