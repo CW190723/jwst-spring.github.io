@@ -15,7 +15,7 @@
 
 From: `pro1727, pro1810, pro1837, pro1840, pro2321, pro2514, pro3990`
 
-Locations: `10.47.1.52:/data1/JWST_cui/COS/MOSAIC`
+Locations: `10.47.1.34:/data1/JWST_cui/COS/MOSAIC`
 
 ## EGS
 
@@ -33,7 +33,7 @@ Locations: `10.47.1.52:/data1/JWST_cui/COS/MOSAIC`
 
 From: `pro1345, pro2234, pro2279, pro2514, pro2750, pro3990`
 
-Locations: `10.47.1.52:/data1/JWST_cui/EGS/MOSAIC`
+Locations: `10.47.1.34:/data1/JWST_cui/EGS/MOSAIC`
 
 ## GOODSN
 
@@ -47,20 +47,20 @@ Locations: `10.47.1.52:/data1/JWST_cui/EGS/MOSAIC`
 
 From: `pro1181, pro1895, pro2514, pro2674, pro3577`
 
-Locations: `10.47.1.52:/data1/JWST_cui/GOODSN/MOSAIC`
+Locations: `10.47.1.34:/data1/JWST_cui/GOODSN/MOSAIC`
 
 ## GOODSS
 |      Band       | F435W  | F606W  | F775W  | F814W  | F850LP | F105W  | F125W  | F140W  | F160W  |
 |:---------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 | Area (arcmin^2) | 183.82 | 270.82 | 226.74 | 371.57 | 348.78 | 104.92 | 135.33 | 156.00 | 135.33 |
 
-|      Band       | F070W | F090W  | F115W | F140M | F150W  | F150W2_F162M | F162M | F182M | F200W | F210M | F250M | F277W  | F300M | F335M | F356W  | F410M  | F430M | F444W  | F460M | F480M |
-|:---------------:|:-----:|:------:|:-----:|:-----:|:------:|:------------:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:-----:|:-----:|:------:|:------:|:-----:|:------:|:-----:|:-----:|
-| Area (arcmin^2) | 9.15  | 107.56 |   0   |   0   | 163.51 |      0       |   0   |   0   |   0   |   0   | 16.08 | 160.23 | 9.46  | 50.48 | 171.16 | 101.53 | 10.28 | 180.54 | 10.28 | 10.28 |
+|      Band       | F070W | F090W  | F115W | F140M | F150W  | F150W2_F162M | F162M | F182M | F200W  | F210M | F250M | F277W  | F300M | F335M | F356W  | F410M  | F430M | F444W  | F460M | F480M |
+|:---------------:|:-----:|:------:|:-----:|:-----:|:------:|:------------:|:-----:|:-----:|:------:|:-----:|:-----:|:------:|:-----:|:-----:|:------:|:------:|:-----:|:------:|:-----:|:-----:|
+| Area (arcmin^2) | 9.15  | 107.56 |   0   |   0   | 163.51 |      0       |   0   |   0   | 165.09 |   0   | 16.08 | 160.23 | 9.46  | 50.48 | 171.16 | 101.53 | 10.28 | 180.54 | 10.28 | 10.28 |
 
 From: `pro1176, pro1180, pro1210, pro1283, pro1286, pro1895, pro1963, pro2079, pro2198, pro2514, pro2516, pro3215, pro3990, pro6541`
 
-Locations: `10.47.1.52:/data1/JWST_cui/GOODSS/MOSAIC`
+Locations: `10.47.1.34:/data1/JWST_cui/GOODSS/MOSAIC`
 
 ## UDS
 
@@ -74,4 +74,4 @@ Locations: `10.47.1.52:/data1/JWST_cui/GOODSS/MOSAIC`
 
 From `pro1837, pro2514, pro3990`
 
-Locations: `10.47.1.52:/data1/JWST_cui/UDS/MOSAIC`
+Locations: `10.47.1.34:/data1/JWST_cui/UDS/MOSAIC`

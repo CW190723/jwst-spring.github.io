@@ -8,6 +8,12 @@
 jw01181010001*
 ```
 
+### GOODSN
+
+```
+jw2079001003_06201_00001_nrcb3*
+```
+
 ## Deprecated Data
 
 ### GOODSS
