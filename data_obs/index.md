@@ -33,12 +33,17 @@ Until August 14.
 
 #### pro2514 
 ```
-['obsnum151', 'obsnum152', 'obsnum153', 'obsnum154', 'obsnum155', 'obsnum156', 'obsnum157', 'obsnum158', 'obsnum159', 'obsnum160', 'obsnum161', 'obsnum162', 'obsnum163', 'obsnum164', 'obsnum165', 'obsnum200', 'obsnum201', 'obsnum202']
+['obsnum151', 'obsnum152', 'obsnum153', 'obsnum154', 'obsnum155', 'obsnum156', 'obsnum157', 'obsnum158', 'obsnum159', 'obsnum160', 'obsnum161', 'obsnum162', 'obsnum163', 'obsnum164', 'obsnum165']
 ```
 
 #### pro3990
 ```
 ['obsnum121', 'obsnum367', 'obsnum368', 'obsnum369', 'obsnum370']
+```
+
+#### pro6585
+```
+['obsnum04', 'obsnum12']
 ```
 
 ### MIRI
