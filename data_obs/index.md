@@ -38,7 +38,7 @@ Until August 14.
 
 #### pro3990
 ```
-['obsnum121', 'obsnum367', 'obsnum368', 'obsnum369', 'obsnum370']
+['obsnum121']
 ```
 
 #### pro6585

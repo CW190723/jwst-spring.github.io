@@ -2,6 +2,13 @@
 
 ## Guide Star Error
 
+### COSMOS
+
+```
+jw01837004020*
+```
+
+
 ### GOODSN
 
 ```
