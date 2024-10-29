@@ -11,11 +11,11 @@
 
 |      Band       | F090W  | F115W  | F150W  | F200W  | F277W  | F356W  | F444W  | F770W  | F1800W |
 |:---------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-| Area (arcmin^2) | 150.87 | 458.63 | 444.33 | 167.07 | 468.81 | 164.96 | 445.22 | 259.29 | 110.85 |
+| Area (arcmin^2) | 150.87 | 458.63 | 476.34 | 167.07 | 468.81 | 164.96 | 445.22 | 259.29 | 110.85 |
 
 From: `pro1727, pro1810, pro1837, pro1840, pro2321, pro2514, pro3990`
 
-Locations: `10.47.1.34:/data1/JWST_cui/COS/MOSAIC`
+Locations: `10.47.1.34:/data3/JWST_SPRING/COSMOS/`
 
 ## EGS
 
@@ -33,7 +33,7 @@ Locations: `10.47.1.34:/data1/JWST_cui/COS/MOSAIC`
 
 From: `pro1345, pro2234, pro2279, pro2514, pro2750, pro3990`
 
-Locations: `10.47.1.34:/data1/JWST_cui/EGS/MOSAIC`
+Locations: `10.47.1.34:/data3/JWST_SPRING/EGS/`
 
 ## GOODSN
 
@@ -47,7 +47,7 @@ Locations: `10.47.1.34:/data1/JWST_cui/EGS/MOSAIC`
 
 From: `pro1181, pro1895, pro2514, pro2674, pro3577`
 
-Locations: `10.47.1.34:/data1/JWST_cui/GOODSN/MOSAIC`
+Locations: `10.47.1.34:/data3/JWST_SPRING/GOODSN/`
 
 ## GOODSS
 |      Band       | F435W  | F606W  | F775W  | F814W  | F850LP | F105W  | F125W  | F140W  | F160W  |
@@ -60,7 +60,7 @@ Locations: `10.47.1.34:/data1/JWST_cui/GOODSN/MOSAIC`
 
 From: `pro1176, pro1180, pro1210, pro1283, pro1286, pro1895, pro1963, pro2079, pro2198, pro2514, pro2516, pro3215, pro3990, pro6541`
 
-Locations: `10.47.1.34:/data1/JWST_cui/GOODSS/MOSAIC`
+Locations: `10.47.1.34:/data3/JWST_SPRING/GOODSS/`
 
 ## UDS
 
@@ -74,4 +74,4 @@ Locations: `10.47.1.34:/data1/JWST_cui/GOODSS/MOSAIC`
 
 From `pro1837, pro2514, pro3990`
 
-Locations: `10.47.1.34:/data1/JWST_cui/UDS/MOSAIC`
+Locations: `10.47.1.34:/data3/JWST_SPRING/UDS/`
