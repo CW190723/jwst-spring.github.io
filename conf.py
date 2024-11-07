@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'jwst-spring'
-copyright = '2024, qfcui'
+project = 'JWST-SPRING'
+copyright = '2024, JWST-SPRING'
 author = 'qfcui'
 
 # The full version, including alpha/beta/rc tags

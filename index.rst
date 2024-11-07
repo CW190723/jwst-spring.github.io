@@ -18,4 +18,4 @@ JWST-SPRING数据释放文档
    data_quality/index
    catalog/index
 
-Updata time: 2024-10-09
+Updata time: 2024-11-07
